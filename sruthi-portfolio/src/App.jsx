@@ -110,20 +110,20 @@ const INTERNSHIPS = [
     title: "Artificial Intelligence & Cloud Internship",
     org: "IBM SkillsBuild, Edunet Foundation & AICTE",
     period: "4 Weeks",
-    certificate: "/certificates/ai-cloud-internship.pdf",
+    certificate: "https://drive.google.com/file/d/1aFfJVKZ45Z0GBOthwFxmWhSizJakSFXX/view?usp=drive_link",
   },
   {
     title: "Data Science & Data Engineering Internship",
     org: "Learned ETL, pipelines, and workflow fundamentals",
     period: "2 Months",
-    certificate: "/certificates/data-science-internship.pdf",
+    certificate: "{https://drive.google.com/file/d/1mCMuwE_76NjyeeGEIiwIFJAEGqkKJFul/view?usp=drive_link",
   },
 ];
 
 const CERTIFICATIONS = [
-  { title: "Human Computer Interaction — NPTEL", link: "/certificates/hci-nptel.pdf" },
-  { title: "Java (Basic) Certification", link: "/certificates/java-basic.pdf" },
-  { title: "National-Level Hackathon Participation", link: "/certificates/hackathon.pdf" },
+  { title: "Human Computer Interaction — NPTEL", link: "https://drive.google.com/file/d/1FchpT90FUw4fU4Q3Sbrj_Z-RonG7FHKP/view?usp=sharing" },
+  { title: "Java (Basic) Certification", link: "https://drive.google.com/file/d/1bf_KTrGVwyqaik4NxocsZl03mCTb0_88/view?usp=drive_link" },
+  { title: "National-Level Hackathon Participation", link: "https://drive.google.com/file/d/1WqP9tlsYCZDUljZDKg4HWWj4nT9wtRxB/view?usp=drive_link" },
   { title: "Smart Interviews Hive (Basic) Certification", link: "/certificates/smart-interviews-hive.pdf" },
 ];
 
