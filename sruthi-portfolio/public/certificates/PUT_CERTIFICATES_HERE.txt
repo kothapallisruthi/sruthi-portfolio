@@ -1,0 +1,16 @@
+Put your real certificate PDF files in this folder using these exact filenames:
+
+  ai-cloud-internship.pdf        -> IBM SkillsBuild / Edunet / AICTE internship
+  data-science-internship.pdf    -> Data Science & Data Engineering internship
+  hci-nptel.pdf                  -> Human Computer Interaction (NPTEL)
+  java-basic.pdf                 -> Java (Basic) certification
+  hackathon.pdf                  -> National-Level Hackathon participation
+  smart-interviews-hive.pdf      -> Smart Interviews Hive (Basic)
+
+Your resume is already at public/resume.pdf (the "View / Download CV" button uses it).
+
+If a certificate lives online instead (Google Drive, Credly, NPTEL portal),
+just paste the full URL into the `link` / `certificate` field in
+src/App.jsx instead of the /certificates/... path.
+
+Finally, add your GitHub and live-demo URLs in the PROJECTS array in src/App.jsx.
